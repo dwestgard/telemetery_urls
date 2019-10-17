@@ -1,48 +1,48 @@
 url,company,product,purpose
-https://shasta-sfg.dis.symantec.com,Symantec,Endpoint,reputation
-https://ent-shasta-mr-clean.symantec.com,Symantec,Endpoint,reputation
-http://liveupdate.symantecliveupdate.com,Symantec,Endpoint,updates
-http://liveupdate.symantec.com,Symantec,Endpoint,updates
-https://liveupdate.symantecliveupdate.com,Symantec,Endpoint,updates
-https://liveupdate.symantec.com,Symantec,Endpoint,updates
-https://tses.symantec.com,Symantec,Endpoint,usage
-https://stats.norton.com,Symantec,Endpoint,usage
-http://stats.symantec.com,Symantec,Endpoint,usage
-https://stnd-avpg.crsi.symantec.com,Symantec,Endpoint,ping
-https://avs-avpg.crsi.symantec.com,Symantec,Endpoint,ping
-https://stnd-ipsg.crsi.symantec.com,Symantec,Endpoint,ping
-https://bash-avpg.crsi.symantec.com,Symantec,Endpoint,ping
-https://tus1gwynwapex01.symantec.com,Symantec,Endpoint,auth
-https://central.ss.crsi.symantec.com,Symantec,Endpoint,samples
-https://central.nrsi.symantec.com,Symantec,Endpoint,samples
-https://central.avsi.symantec.com,Symantec,Endpoint,samples
-https://central.b6.crsi.symantec.com,Symantec,Endpoint,samples
-https://central.crsi.symantec.com,Symantec,Endpoint,samples
-https://shasta-sfg.norton.com,Symantec,Endpoint,samples
-https://shasta-sfg.dis.symantec.com,Symantec,Endpoint,samples
-https://stnd-lueg.crsi.symantec.com,Symantec,Endpoint,error
-https://services-prod.symantec.com/service/IPLService.serviceagent/IPLendpoint1,Symantec,Endpoint,activation
-https://tses.symantec.com,Symantec,Endpoint,install events
-https://sep.securitycloud.symantec.com/cc/#/landing,Symantec,Endpoint,cloud
-https://sep.securitycloud.symantec.com/cc/#/login,Symantec,Endpoint,cloud
-https://us-east-1-s3-symc-prod-saep-cis.s3.amazonaws.com,Symantec,Endpoint,aws
-https://global-s3-cpe-prod-saep-hub.s3.amazonaws.com,Symantec,Endpoint,aws
-https://us-east-1-s3-symc-prod-ses-shared-content.s3.amazonaws.com,Symantec,Endpoint,aws
-https://apprep.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
-https://ars.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
-https://c.urs.microsoft.com,Microsoft,Smartscreen,iexplore.exe MicrosoftEdge.exe
-https://feedback.smartscreen.microsoft.com,Microsoft,Smartscreen,accuracy
-https://nav.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
-https://nf.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe
-https://ping.nav.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
-https://ping.nf.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe
-https://t.nav.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
-https://t.nf.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe
-https://t.urs.microsoft.com,Microsoft,Smartscreen,iexplore.exe MicrosoftEdge.exe
-https://unitedstates.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe
-https://unitedstates.smartscreen-prod.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe
-https://urs.microsoft.com,Microsoft,Smartscreen,iexplore.exe
-https://urs.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe wdnsfltr.exe
+shasta-sfg.dis.symantec.com,Symantec,Endpoint,reputation
+ent-shasta-mr-clean.symantec.com,Symantec,Endpoint,reputation
+iveupdate.symantecliveupdate.com,Symantec,Endpoint,updates
+iveupdate.symantec.com,Symantec,Endpoint,updates
+liveupdate.symantecliveupdate.com,Symantec,Endpoint,updates
+liveupdate.symantec.com,Symantec,Endpoint,updates
+tses.symantec.com,Symantec,Endpoint,usage
+stats.norton.com,Symantec,Endpoint,usage
+tats.symantec.com,Symantec,Endpoint,usage
+stnd-avpg.crsi.symantec.com,Symantec,Endpoint,ping
+avs-avpg.crsi.symantec.com,Symantec,Endpoint,ping
+stnd-ipsg.crsi.symantec.com,Symantec,Endpoint,ping
+bash-avpg.crsi.symantec.com,Symantec,Endpoint,ping
+tus1gwynwapex01.symantec.com,Symantec,Endpoint,auth
+central.ss.crsi.symantec.com,Symantec,Endpoint,samples
+central.nrsi.symantec.com,Symantec,Endpoint,samples
+central.avsi.symantec.com,Symantec,Endpoint,samples
+central.b6.crsi.symantec.com,Symantec,Endpoint,samples
+central.crsi.symantec.com,Symantec,Endpoint,samples
+shasta-sfg.norton.com,Symantec,Endpoint,samples
+shasta-sfg.dis.symantec.com,Symantec,Endpoint,samples
+stnd-lueg.crsi.symantec.com,Symantec,Endpoint,error
+services-prod.symantec.com/service/IPLService.serviceagent/IPLendpoint1,Symantec,Endpoint,activation
+tses.symantec.com,Symantec,Endpoint,install events
+sep.securitycloud.symantec.com/cc/#/landing,Symantec,Endpoint,cloud
+sep.securitycloud.symantec.com/cc/#/login,Symantec,Endpoint,cloud
+us-east-1-s3-symc-prod-saep-cis.s3.amazonaws.com,Symantec,Endpoint,aws
+global-s3-cpe-prod-saep-hub.s3.amazonaws.com,Symantec,Endpoint,aws
+us-east-1-s3-symc-prod-ses-shared-content.s3.amazonaws.com,Symantec,Endpoint,aws
+apprep.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
+ars.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
+c.urs.microsoft.com,Microsoft,Smartscreen,iexplore.exe MicrosoftEdge.exe
+feedback.smartscreen.microsoft.com,Microsoft,Smartscreen,accuracy
+nav.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
+nf.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe
+ping.nav.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
+ping.nf.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe
+t.nav.smartscreen.microsoft.com,Microsoft,Smartscreen,smartscreen.exe
+t.nf.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe
+t.urs.microsoft.com,Microsoft,Smartscreen,iexplore.exe MicrosoftEdge.exe
+unitedstates.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe
+unitedstates.smartscreen-prod.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe
+urs.microsoft.com,Microsoft,Smartscreen,iexplore.exe
+urs.smartscreen.microsoft.com,Microsoft,Smartscreen,NisSrv.exe smartscreen.exe wdnsfltr.exe
 us.vortex-win.data.microsoft.com,Microsoft,ATP,
 ussus1eastprod.blob.core.windows.net,Microsoft,ATP,
 ussus1westprod.blob.core.windows.net,Microsoft,ATP,
@@ -86,7 +86,7 @@ sw-usw001.mvision.mcafee.com,Mcafee,Mvision,
 cdn-usw002.mvision.mcafee.com,Mcafee,Mvision,
 sw-usw002.mvision.mcafee.com,Mcafee,Mvision,
 cds.mvision.mcafee.com,Mcafee,Mvision,
-http://update.nai.com,Mcafee,update,
+update.nai.com,Mcafee,update,
 epo.mcafee.com,Mcafee,update,
 s-download.mcafee.com ,Mcafee,update,
 tunnel.web.trustedsource.org,Mcafee,GTI,reputation
@@ -123,3 +123,42 @@ sites.google.com,Google,Chrome,
 drive.google.com,Google,Chrome,
 ipv4.google.com,Google,Chrome,
 ipv4.google.com,Google,Chrome,
+watson.telemetry.microsoft.com,Microsoft,Windows,error
+ceuswatcab01.blob.core.windows.net,Microsoft,Windows,error
+ceuswatcab02.blob.core.windows.net,Microsoft,Windows,error
+eaus2watcab01.blob.core.windows.net,Microsoft,Windows,error
+eaus2watcab02.blob.core.windows.net,Microsoft,Windows,error
+weus2watcab01.blob.core.windows.net,Microsoft,Windows,error
+weus2watcab02.blob.core.windows.net,Microsoft,Windows,error
+oca.telemetry.microsoft.com,Microsoft,Windows,crash analysis
+vortex.data.microsoft.com/collect/v1,Microsoft,OneDrive,
+wdcp.microsoft.com,Microsoft,ATP,
+wdcpalt.microsoft.com,Microsoft,ATP,
+login.live.com ,Microsoft,Windows,health
+sql.telemetry.mozilla.org ,Mozilla,Firefox,telemetry
+aus.mozilla.org,Mozilla,Firefox,updates
+aus2.mozilla.org,Mozilla,Firefox,updates
+aus3.mozilla.org,Mozilla,Firefox,updates
+aus4.mozilla.org,Mozilla,Firefox,updates
+aus5.mozilla.org,Mozilla,Firefox,updates
+download.cdn.mozilla.net,Mozilla,Firefox,
+aus.mozilla.org,Mozilla,Firefox,updates
+aus.mozilla.osuosl.org,Mozilla,Firefox,updates
+aus01.zlb.phx.mozilla.net,Mozilla,Firefox,updates
+aus02.zlb.phx.mozilla.net,Mozilla,Firefox,updates
+aus03.zlb.phx.mozilla.net,Mozilla,Firefox,updates
+aus2-staging.mozilla.org,Mozilla,Firefox,updates
+aus2-static.mozilla.org,Mozilla,Firefox,updates
+aus2-test.mozilla.org,Mozilla,Firefox,updates
+aus2.mozilla.osuosl.org,Mozilla,Firefox,updates
+crash-analysis.mozilla.com,Mozilla,Firefox,
+crash-reports.allizom.org,Mozilla,Firefox,
+crash-reports.mozilla.com,Mozilla,Firefox,
+crash-stacks.mozilla.com,Mozilla,Firefox,
+crash-stats.allizom.org,Mozilla,Firefox,
+crash-stats.mozilla.com,Mozilla,Firefox,
+crashstats.mozilla.com,Mozilla,Firefox,
+crash-stats.mozilla.org,Mozilla,Firefox,
+shavar.prod.mozaws.net,Mozilla,Firefox,
+Balrog-aus5.r53-2.services.mozilla.com,Mozilla,Firefox,domain front for aus
+balrog-cloudfront.prod.mozaws.net,Mozilla,Firefox,domain front for aus
