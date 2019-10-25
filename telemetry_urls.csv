@@ -162,3 +162,4 @@ crash-stats.mozilla.org,Mozilla,Firefox,
 shavar.prod.mozaws.net,Mozilla,Firefox,
 Balrog-aus5.r53-2.services.mozilla.com,Mozilla,Firefox,domain front for aus
 balrog-cloudfront.prod.mozaws.net,Mozilla,Firefox,domain front for aus
+app.pendo.io,Jamf,Jamf Pro,usage pattern tracking
