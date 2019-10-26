@@ -163,3 +163,19 @@ shavar.prod.mozaws.net,Mozilla,Firefox,
 Balrog-aus5.r53-2.services.mozilla.com,Mozilla,Firefox,domain front for aus
 balrog-cloudfront.prod.mozaws.net,Mozilla,Firefox,domain front for aus
 app.pendo.io,Jamf,Jamf Pro,usage pattern tracking
+armmf.adobe.com,Adobe,Reader,update metadata download
+armmf.adobe.com,Adobe,Reader,update metadata download
+ardownload.adobe.com,Adobe,Reader,updates download
+ardownload.adobe.com,Adobe,Reader,updates download
+ardownload2.adobe.com,Adobe,Reader,incremental updates download
+ardownload2.adobe.com,Adobe,Reader,incremental updates download
+crl.adobe.com,Adobe,Reader,Certificate Revocation List
+ajax.aspnetcdn.com,Microsoft,Azure,Password reset
+passwordreset.microsoftonline.com,Microsoft,Azure,Password reset
+swscan.apple.com,Apple,MacOS,Updates
+swcdnlocator.apple.com,Apple,MacOS,Updates
+swdownload.apple.com,Apple,MacOS,Updates
+swcdn.apple.com,Apple,MacOS,Updates
+swdist.apple.com,Apple,MacOS,Updates
+metrics.ubuntu.com,Ubuntu,Ubuntu,Metrics
+*.archive.ubuntu.com,Ubuntu,Ubuntu,Update repo

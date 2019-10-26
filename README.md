@@ -17,3 +17,12 @@ https://support.google.com/a/answer/6163291?visit_id=637068739203613324-39953937
 
 Mozilla
 https://wiki.mozilla.org/Websites/Directory
+
+Adobe
+https://github.com/nsacyber/HTTP-Connectivity-Tester/tree/master/Examples/Adobe/ARMUpdate
+
+Apple
+https://github.com/nsacyber/HTTP-Connectivity-Tester/tree/master/Examples/Apple
+
+Ubuntu
+https://github.com/ubuntu/ubuntu-report
